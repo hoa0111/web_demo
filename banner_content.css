@@ -1,0 +1,42 @@
+/* CSS Document */
+
+body{
+	margin: 0px 0px 0px 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+.banner_content{
+	width: px;
+	height: px;
+}
+
+.content_insert{
+	width: 1340px;
+	background-color: #F4F4F4;
+}
+
+.adjust_a_tag1:link{
+	color: #4BA4DC;
+}
+.adjust_a_tag1:visited{
+	color: #4BA4DC;
+}
+.adjust_a_tag1:hover{
+	color: #144969;
+}
+
+
+.footer_select{
+	width: 1340px;
+	height: 300px;
+	background-color: #333333;
+	
+}
+
+.footer_copyright{
+	width: 1340px;
+	height: 30px;
+	background-color: #252525;
+	text-align: center;
+}

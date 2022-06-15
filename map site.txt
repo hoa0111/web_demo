@@ -1,0 +1,13 @@
+ẨM THỰC TIỀN GIANG
+
+
+
+- TRANG CHỦ (index.html)
+	+ GIỚI THIỆU (gioithieu.html): Giới thiệu về trang web ẩm thực Tiền Giang
+	+ ẨM THỰC TIỀN GIANG (amthuctg.html): Review các món ăn ở Tiền Giang
+		+ THÀNH PHỐ MỸ THO
+		+ THỊ XÃ GÒ CÔNG
+		+ GÒ CÔNG ĐÔNG
+	+ TIN TỨC (tintuc.html): Dẫn nguồn các bài báo giới thiệu món ăn của Tiền Giang
+	+ LIÊN HỆ (lienhe.html): Đóng góp ý kiến, phản hồi đến trang web ẩm thực Tiền Giang
+	+ BẢN ĐỒ (bando.html): Chọn địa điểm, khi click vào địa điểm sẽ hiện ra bản đồ của nơi đó.
